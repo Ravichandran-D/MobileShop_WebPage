@@ -23,7 +23,7 @@ MobileShop WebPage is a static website showcasing mobile products (phones, table
 php -S localhost:8000
 ```
 
-Then open http://localhost:8000/mobiles%20webpage.html in your browser.
+Then open https://suriya-mobiles-webpage.netlify.app in your browser.
 
 ## Project Structure
 
